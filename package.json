@@ -8,8 +8,8 @@
     "start": "react-native start",
     "test": "jest",
     "build": "tsc",
-    "linter": "eslint 'src/**/*.{js,jsx,tsx}'",
-    "prettier": "prettier --write 'src/**/*.{js,jsx,tsx}'"
+    "linter": "eslint App.tsx",
+    "prettier": "prettier --write App.tsx"
   },
   "dependencies": {
     "eslint-config-prettier": "^8.6.0",
